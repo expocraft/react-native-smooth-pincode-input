@@ -8,6 +8,9 @@
     "type": "git",
     "url": "https://github.com/expocraft/react-native-smooth-pincode-input.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "keywords": [
     "react-native",
     "pincode",
